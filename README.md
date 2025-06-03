@@ -17,9 +17,7 @@ So, how to make use of this app? here's the manual:
 3. run the app.py, then input your choosen date (for now its only support gregorian calender)
 4. voila! now you know what day of the week it is from that date
 
-#
-how to download<br> 
-![how to download](https://github.com/doni-wahyudi/TASK-REPOSITORY/blob/to-day_calculator/assets/how%20to%20download.png)
+
 #
 open cmd<br> 
 ![open cmd](https://github.com/doni-wahyudi/TASK-REPOSITORY/blob/to-day_calculator/assets/open%20cmd.png)
